@@ -1,0 +1,7 @@
+name: "lx-dd-linux-and-networking-recipe"
+maintainer:
+    name: "Duckietown"
+    email: "info@duckietown.com"
+description: "Recipe for the DD24 Linux and Networking Learning Experience"
+version: 0.0.0
+icon: cube
