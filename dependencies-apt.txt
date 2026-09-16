@@ -4,5 +4,13 @@ ros-jazzy-rclpy
 ros-jazzy-std-msgs
 ros-jazzy-sensor-msgs
 
+# Network diagnostics
+curl
+htop
+iproute2
+iputils-ping
+netcat-openbsd
+openssh-client
+
 # colcon build tools
 python3-colcon-common-extensions

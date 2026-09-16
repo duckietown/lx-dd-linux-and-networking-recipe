@@ -1,1 +1,7 @@
-# No APT packages needed for the VSCode notebook editor
+# Network diagnostics used by the notebooks
+curl
+htop
+iproute2
+iputils-ping
+netcat-openbsd
+openssh-client
